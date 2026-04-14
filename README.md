@@ -60,6 +60,7 @@ A common hardening practice is to delete all cookies upon closing the browser an
 * **Password Storage:** For many users, the built-in Firefox password manager (especially when protected by a **Primary Password**) is a safer alternative than using weak passwords or reusing them because they are too difficult to type manually every day.
 
 By keeping these enabled, we ensure that the browser remains a viable tool for daily work while still benefiting from the significant privacy improvements in the other sections of this guide. If you wish to disable these, you can proceed to do so.
+
 ---
 
 ## Level 2: Essential Extensions
