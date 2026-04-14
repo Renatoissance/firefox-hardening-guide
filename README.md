@@ -53,6 +53,13 @@ A private browser is ineffective if your default search engine tracks your queri
   <img src="img/Hardened_Firefox4.png" alt="Default Search Engine set to DuckDuckGo">
 </p>
 
+### 5. Cookies and Password Management (Usability Choice)
+A common hardening practice is to delete all cookies upon closing the browser and to disable the built-in password manager entirely. However, this guide deliberately leaves these features enabled to maintain a balance between security and daily usability.
+
+* **Cookie Retention:** Constantly re-rejecting cookie banners on every visit leads to "security fatigue," which can result in poor security decisions elsewhere.
+* **Password Storage:** For many users, the built-in Firefox password manager (especially when protected by a **Primary Password**) is a safer alternative than using weak passwords or reusing them because they are too difficult to type manually every day.
+
+By keeping these enabled, we ensure that the browser remains a viable tool for daily work while still benefiting from the significant privacy improvements in the other sections of this guide. If you wish to disable these, you can proceed to do so.
 ---
 
 ## Level 2: Essential Extensions
